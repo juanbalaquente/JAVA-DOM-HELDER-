@@ -1,0 +1,12 @@
+    nome = arquivo.nextLine();
+    cpf = arquivo.nextLine();
+    identidade = arquivo.nextLine();
+    tituloEleitor = arquivo.nextLine();
+    carteiraMotorista = arquivo.nextLine();
+    salario = arquivo.nextDouble();
+    arquivo.nextLine();
+    empresa = arquivo.nextLine();
+
+
+
+    //arquivo referente ao ex CO04EX05
