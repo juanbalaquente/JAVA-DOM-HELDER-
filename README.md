@@ -40,3 +40,10 @@ src/
 ├── C05EX01.java
 ├── C06EX01.java
 └── ...
+
+
+
+git status
+git add .
+git commit -m "Adiciona exercícios de repetição"
+git push
